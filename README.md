@@ -1,6 +1,6 @@
 # Check InternetGuard Status
 
-Small helper script used to check whether a domain is on the [Bluewin](https://www.bluewin.ch) blacklist
+Small helper script used to check whether a domain is on the [Bluewin](https://www.bluewin.ch) blocklist
 a.k.a [InternetGuard](https://www.swisscom.ch/en/residential/help/internet/internetguard.html).
 
 ## Example
