@@ -6,7 +6,7 @@ a.k.a [InternetGuard](https://www.swisscom.ch/en/residential/help/internet/inter
 ## Example
 
 ```
-$ ./check-dnsguard.sh bluewin.ch igtest.bluewin.org google.com 1bet.com
+$ ./check-internetguard.sh bluewin.ch igtest.bluewin.org google.com 1bet.com
 pass	bluewin.ch
 block	igtest.bluewin.org
 pass	google.com
